@@ -51,14 +51,14 @@ a{
     font-size: 20px;
     text-decoration: none;
 }
-
-
-
- 
-
-       
-
-        
-
-
-    
+.bt1{
+    background-color: #ff8c00;
+    text-decoration: none;
+    border-radius: 70px;
+    height: 40px;
+    width: 120px;
+}
+.bt2{
+    background-color: #f5002d;
+    border-radius: 70px;
+}
